@@ -14,6 +14,6 @@ Gem::Specification.new do |gem|
   gem.version       = ActiveAdmin::Translate::VERSION
 
   gem.add_dependency 'activeadmin'
-  gem.add_dependency 'globalize3'
+  gem.add_dependency 'globalize'
   gem.add_dependency 'railties'
 end
