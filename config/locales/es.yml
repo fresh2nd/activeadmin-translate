@@ -1,0 +1,8 @@
+es:
+  active_admin:
+    translate:
+      en: 'Inglés'
+      de: 'Aleman'
+      fr: 'Francés'
+      it: 'Italiano'
+      es: 'Español'
